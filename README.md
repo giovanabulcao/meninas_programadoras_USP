@@ -1,1 +1,1 @@
-# meninas_programadoras_USP
+# Exercícios resolvidos por mim do curso Meninas Programadoras oferecido pelo Instituto de Ciências Matemáticas e de Computação da USP.
